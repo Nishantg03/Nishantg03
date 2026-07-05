@@ -179,8 +179,9 @@ Highlights
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishantg03&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantg03&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-two-omega-24.vercel.app/api?username=Nishantg03&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-two-omega-24.vercel.app/api/top-langs/?username=Nishantg03&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
